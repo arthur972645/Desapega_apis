@@ -1,0 +1,2 @@
+npm init -y
+npm i bcrypt cookie-parse cors dotenv express jsonwebtoken multer mysql2 uuid
